@@ -1,1 +1,34 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
+    .parent{
+      width: 420px;
+      padding: 20px;
+      background: #7CFC00;
+    }
+
+    .parent h1{
+      margin-bottom: 20px;
+      font-size: 38px;
+    }
+
+    .child1{
+      background: #c65b16;
+      padding: 20px;
+    }
+
+    .child2{
+      background: gold;
+      padding: 20px;
+    }
+
+    h2{
+      margin-bottom: 15px;
+    }
+
+    p{
+        padding: 15px;
+    }
